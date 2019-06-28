@@ -1,0 +1,3 @@
+haskell_src/*.hi
+haskell_src/main
+*.o
